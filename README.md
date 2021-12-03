@@ -1,11 +1,25 @@
 # Arachis_cardenasii_Introgression
 
-De Novo Genome Assembly
+This repository stores the code used to develop the Virginia-Type peanut reference genome 'Bailey II' (Cite the NCBI identifier XXX), discover genome-wide markers, and XXX.
+Cite paper XXX.
 
-Genome Polishing 
+## *De Novo* Genome Assembly
 
-Genome Scaffolding 
+- Data Pre-Processing
 
-Genome Gap-Filling 
+- Genome Polishing 
 
-Genome Annotation 
+- Genome Scaffolding 
+
+- Genome Gap-Filling 
+
+- Genome Annotation 
+
+## Marker Discovery 
+
+- Data Pre-Processing
+
+- Variant Calling Pipeline 
+
+- VCF Filtering
+
