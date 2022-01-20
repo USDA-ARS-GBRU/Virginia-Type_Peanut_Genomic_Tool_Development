@@ -23,3 +23,10 @@ Cite paper XXX.
 
 - VCF Filtering
 
+## Population-based Metrics
+
+- genomic matrix
+
+- PCA
+
+- Faststructure
