@@ -15,6 +15,8 @@ Cite paper XXX.
 
 - Genome Annotation 
 
+- Genome GO term Assignment
+
 ## Marker Discovery 
 
 - Data Pre-Processing
