@@ -7,23 +7,24 @@ Cite paper XXX.
 
 ***De Novo* Genome Assembly**
 
-- [Assembly](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/1_Genome_Assembly)
+- [Assembly](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/01_Genome_Assembly)
 
-- [Polishing](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/2_Genome_Polishing)
+- [Polishing](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/02_Genome_Polishing)
 
-- [Scaffolding](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/3_Genome_Scaffolding) 
+- [Scaffolding](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/03_Genome_Scaffolding) 
 
-- [Gap Filling](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/4_Gap_Filling)
+- [Gap Filling](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/04_Gap_Filling)
 
-- [Assess Quality](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/5_Assess_Genome_Quality)
+- [Assess Quality](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/05_Assess_Genome_Quality)
 
-- [Annotation](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/6_Genome_Annotation)
+- [Annotation](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/06_Genome_Annotation)
 
-- [GO Term Assignment](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/7_Gene_Ontology_Assignment)
+- [GO Term Assignment](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/07_Gene_Ontology_Assignment)
 
 **Marker Discovery**
 
-- [Standard Short Variant Discovery Pipeline: Joint Calling](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/8_Standard_Short_Variant_Discovery_Pipeline)
+- [Standard Short Variant Discovery Pipeline: Joint Calling](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/08_Standard_Short_Variant_Discovery_Pipeline)
 
-- [Variant Filtering](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/9_Variant_Dataset_Filtering)
+- [Standard Variant Filtering](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/09_Variant_Dataset_Filtering)
 
+- [Specialized Lenient Short Variant Calling & Filtering](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/10_Specialized_Lenient_Short_Variant_Calling_and_Filtering)
