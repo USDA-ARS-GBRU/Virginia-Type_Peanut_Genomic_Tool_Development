@@ -15,7 +15,7 @@ Cite paper XXX.
 
 - [Gap Filling](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/4_Gap_Filling)
 
-- [Access Quality](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/5_Assess_Genome_Quality)
+- [Assess Quality](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/5_Assess_Genome_Quality)
 
 - [Annotation](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/6_Genome_Annotation)
 
