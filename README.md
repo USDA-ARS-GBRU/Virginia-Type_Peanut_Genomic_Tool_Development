@@ -23,7 +23,7 @@ Cite paper XXX.
 
 **Marker Discovery**
 
-- [Short Variant Discovery Pipeline: Joint Calling](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/8_Short_Variant_Discovery_Pipeline)
+- [Standard Short Variant Discovery Pipeline: Joint Calling](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/8_Standard_Short_Variant_Discovery_Pipeline)
 
 - [Variant Filtering](https://github.com/USDA-ARS-GBRU/Arachis_cardenasii_Introgression/wiki/9_Variant_Dataset_Filtering)
 
