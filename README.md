@@ -1,9 +1,7 @@
 **Arachis_cardenasii_Introgression**
 
-This repository stores the code used to develop the Virginia-Type peanut reference genome 'Bailey II' (Cite the NCBI identifier XXX), and discover 
- markers across the Bailey II genome. 
-
-Cite paper XXX.
+This repository stores the code used to develop the Virginia-Type peanut reference genome 'Bailey II' (NCBI JAGJTH000000000), and discover 
+ markers across the Bailey II genome. This work pertains to the manuscript titled "Initiation of Genomics-Assisted Breeding in Virginia-Type Peanuts through the Generation of a De Novo Reference Genome and Informative Markers", which is currently in review.
 
 ***De Novo* Genome Assembly**
 
